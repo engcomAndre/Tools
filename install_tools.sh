@@ -529,3 +529,4 @@ echo "   - Docker group membership"
 echo "   - Environment variable changes"
 echo "   - System-wide tool installations"
 echo -e "\n   Please save your work and reboot your system when convenient."
+
